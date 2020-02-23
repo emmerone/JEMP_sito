@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+
+<head>
+	<!--#include virtual="../common/meta.html" -->
+	<!--#include virtual="../common/analytics.html" -->
+	<title>JEMP | Servizi | Business</title>
+	
+	<!--Scheda corrente nell'header - home = 0-->
+	<script>var current = "2";</script>
+	<link href="https://www.jemp.it/css/servizi_singoli.css?v=1.2" rel="stylesheet" type="text/css">
+	
+	<style>
+		.servizi_header .background, .servizi_cta .background{
+			background: url("https://www.jemp.it/images/servizi/marketing.jpg") no-repeat center;
+			-webkit-background-size: cover;
+					background-size: cover;
+		}		
+	</style>
+</head>
+
+<body>
+	<!--#include virtual="../common/fb_chat.html" -->	
+	
+	<h1>JEMP | Servizi | Business</h1>
+	
+	<!--#include virtual="../common/header.html" -->
+	
+	<section class="wrapper servizi_header">
+		<div class="background"></div>
+		<div class="layout half">
+			<div>
+				<h3>Marketing</h3>
+				<p>Se hai intenzione di dare una svolta alla tua carriera allora sei nel posto giusto. Il settore marketing si occupa di definire, tramite un’analisi a 360 gradi, le caratteristiche rilevanti del settore di riferimento, per fare in modo che la tua start-up o la tua impresa si fondino su solide fondamenta, basi che permettono di diventare un notevole concorrente.<br>Qui in JEMP siamo pronti a darti tutto il nostro aiuto, mettendo in pratica le nostre conoscenze ed esperienze per svolgere analisi di mercato, per delineare una nuova strategia di comunicazione e per sostenere la vostra attività Network. Il nostro obiettivo è quello di aiutarti nel perfezionare e ottimizzare appieno i rapporti col tuo mercato di riferimento.</p>
+				<div class="button_flex_container">
+					<a href="https://www.jemp.it/servizi/" class="text_button black_button small">Tutti i servizi</a>
+					<span class="text_button yellow_button small" name="discover">Scopri</span>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section class="wrapper" id="focus">				
+		<div class="yellow">
+			<div class="layout half">
+				<div>
+					<h3>Analisi di Mercato</h3>
+					<p>L’Analisi di Mercato fornisce una valutazione completa della situazione attuale in un determinato contesto economico. Effettuando ricerche di mercato, si analizzano l’attrattività del settore e le sue opportunità, definendo i potenziali clienti interessati all’offerta che si vuole proporre e valutando le prospettive di guadagno. Inoltre, si propone anche di analizzare la concorrenza interna, le possibili barriere all’entrata ed eventuali ostacoli relativi a legislazioni, normative e regolamentazioni.<br>Un esempio di Analisi di Mercato si focalizza sugli aspetti demografici e geografici che caratterizzano la popolazione target, quantificando la dimensione del mercato raggiungibile dallo sforzo di marketing. Individuato il riferimento a cui rivolgere l’offerta attraverso una ricerca di mercato, vengono identificati con precisione i bisogni del suddetto settore di clientela, inglobando nell’analisi anche le azioni dei potenziali competitors. Per completare l’analisi, vengono esaminati anche aspetti come le barriere all’entrata, il capitale necessario per implementare la strategia, l’accesso ai canali di distribuzione, i vincoli legislativi e governativi o eventuali regolamentazioni e limitazioni del mercato.<br>Coniugando tutti gli aspetti precedentemente citati, il team di JEMP può offrire consulenza gestionale e direzionale per definire un quadro completo delle azioni da intraprendere sul mercato.</p>
+				</div>
+				<img alt="Analisi di Mercato" src="https://www.jemp.it/images/servizi/marketing_analisi-di-mercato.jpg"/>
+			</div>	
+		</div>		
+		<div class="layout half">
+			<img alt="Sviluppo Social" src="https://www.jemp.it/images/servizi/marketing_sviluppo-social.jpg"/>
+			<div>
+				<h3>Social Media Marketing</h3>
+				<p>I Social Network sono una delle fonti di informazione più importanti attraverso cui un potenziale cliente sviluppa consapevolezza riguardo un’azienda, un servizio o un prodotto ma anche un fattore determinante nel processo decisionale che conduce all’acquisto. Occuparsi di Social Media Marketing è ormai fondamentale per costruire un ponte comunicativo che consenta di interagire direttamente con i clienti interessati considerando le loro necessità e promuovendo al meglio il brand con il web marketing online.<br>Farsi pubblicità sui Social Network, come Facebook o Instagram, richiede un impegno costante per mantenere la comunicazione attiva e in tempi rapidi, per tenere aggiornati i contenuti e presentare un’immagine concreta e coerente con i valori del proprio brand. <br>L’avviamento di un Social Digital Marketing comincia con la creazione dei profili e delle pagine su ogni Social Network su cui si desidera apparire, seguita dall’individuazione di una strategia di realizzazione dei contenuti attraverso campagne Social che prendono in considerazione bacini di utenza specifici. Tutti i contenuti come i post, le foto e i video, devono mantenere alti standard di qualità e disporre di una pubblicazione pianificata. Risulta quindi necessario prestare particolare attenzione agli strumenti di monitoraggio forniti dalle piattaforme social, considerando anche una campagna pubblicitaria a pagamento.<br>Rivolgersi ad un’agenzia di comunicazione come JEMP che si occupa di social media, social media e web marketing, può far risaltare un’azienda rispetto alle altre.</p>
+			</div>
+		</div>
+	</section>
+	
+	<section class="wrapper servizi_cta">
+		<div class="background"></div>
+		<div class="even">
+			<h3>Cosa aspetti?</h3>
+			<a href="https://www.jemp.it/servizi/" class="text_button yellow_button">Vedi tutti i servizi</a>
+		</div>
+	</section>
+	
+	<!--#include virtual="../common/footer.shtml" -->
+	
+	<script src="https://www.jemp.it/js/servizi_singoli.js" type="text/javascript"></script>
+	
+</body>
+</html>

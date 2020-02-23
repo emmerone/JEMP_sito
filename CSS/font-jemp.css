@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'FuturaStd';
+	src: url('https://www.jemp.it/fonts/FuturaStd-Medium.eot');
+	src: url('https://www.jemp.it/fonts/FuturaStd-Medium.eot?#iefix') format('embedded-opentype'),
+		 url('https://www.jemp.it/fonts/FuturaStd-Medium.woff') format('woff'),
+		 url('https://www.jemp.it/fonts/FuturaStd-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FuturaStd';
+	src: url('https://www.jemp.it/fonts/FuturaStd-Heavy.eot');
+	src: url('https://www.jemp.it/fonts/FuturaStd-Heavy.eot?#iefix') format('embedded-opentype'),
+		 url('https://www.jemp.it/fonts/FuturaStd-Heavy.woff') format('woff'),
+		 url('https://www.jemp.it/fonts/FuturaStd-Heavy.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FuturaStd';
+	src: url('https://www.jemp.it/fonts/FuturaStd-Bold.eot');
+	src: url('https://www.jemp.it/fonts/FuturaStd-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('https://www.jemp.it/fonts/FuturaStd-Bold.woff') format('woff'),
+		 url('https://www.jemp.it/fonts/FuturaStd-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('https://www.jemp.it/fonts/FuturaStd-Book.eot');
+    src: url('https://www.jemp.it/fonts/FuturaStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('https://www.jemp.it/fonts/FuturaStd-Book.woff') format('woff'),
+        url('https://www.jemp.it/fonts/FuturaStd-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

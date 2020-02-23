@@ -1,0 +1,53 @@
+/* SLIDER - Definisce lo slider di foto nella pagina */
+.slider .active{
+	height: 0;
+	margin: 0; 
+	padding: 0;
+	position: relative;
+	display: block;
+	overflow: hidden;
+}
+
+.slider .slide{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+	overflow: hidden;
+}
+
+.slider img{
+	width: 100%;
+	height: auto;
+	margin: 0 0 2em 0;
+	padding: 0;
+	position: relative;
+	display: block;
+}
+
+.slider .prev{
+	width: 25px;
+	height: 100%;
+	margin: 0;
+	position: absolute;
+	top: 0;
+	background: url('https://www.jemp.it/images/network/arr.png') no-repeat;
+	left: 3%;
+	background-position: 0 40%;
+}
+
+.slider .next{
+	width: 25px;
+	height: 100%;
+	margin: 0;
+	position: absolute;
+	top: 0;
+	background: url('https://www.jemp.it/images/network/arr.png') no-repeat;
+	right: 3%;
+	background-position: -26px 40%;
+}
+
+.slider .slide.prev:hover, .slider .slide.next:hover { cursor: pointer; }

@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+
+<head>
+	<!--#include virtual="../common/meta.html" -->
+	<!--#include virtual="../common/analytics.html" -->
+	<title>JEMP | Servizi | Business</title>
+	
+	<!--Scheda corrente nell'header - home = 0-->
+	<script>var current = "2";</script>
+	<link href="https://www.jemp.it/css/servizi_singoli.css?v=1.2" rel="stylesheet" type="text/css">
+	
+	<style>
+		.servizi_header .background, .servizi_cta .background{
+			background: url("https://www.jemp.it/images/servizi/business.jpg") no-repeat center;
+			-webkit-background-size: cover;
+					background-size: cover;
+		}		
+	</style>
+</head>
+
+<body>
+	<!--#include virtual="../common/fb_chat.html" -->	
+	
+	<h1>JEMP | Servizi | Business</h1>
+	
+	<!--#include virtual="../common/header.html" -->
+	
+	<section class="wrapper servizi_header">
+		<div class="background"></div>
+		<div class="layout half">
+			<div>
+				<h3>Business</h3>
+				<p>La gestione di un’impresa non è un’attività semplice, necessità sicuramente di una buona dose di coraggio e di tenacia ma questo non sempre basta. Essendo quello dell’imprenditoria un settore complesso e denso di trappole, un saggio imprenditore è colui che sceglie di farsi affiancare da un aiuto esterno.<br>JEMP ti aiuta a coltivare la tua idea imprenditoriale, offrendo un eccellente servizio di consulenza che, tramite stesure di business plan o business model, ti permetterà di incrementare il tuo successo.</p>
+				<div class="button_flex_container">
+					<a href="https://www.jemp.it/servizi/" class="text_button black_button small">Tutti i servizi</a>
+					<span class="text_button yellow_button small" name="discover">Scopri</span>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section class="wrapper" id="focus">				
+		<div class="yellow">
+			<div class="layout half">
+				<div>
+					<h3>Business Plan</h3>
+					<p>Il Business Plan è uno strumento funzionale alla comprensione dell’attuale stato di un'azienda e del suo futuro, all’allineamento delle risorse umane, al controllo dei costi e dei flussi di cassa.<br>Un esempio pratico di Business Plan per una startup? Un documento suddiviso in sette sezioni, ognuna delle quali ha lo scopo di presentare un aspetto specifico della strategia, modellandola secondo i punti di vista operativo, finanziario, comunicativo e del rischio.<br>L’Executive Summary, è la prima sezione che presenta i punti chiave della pianificazione dell’idea di business, della propria azienda e della strategia. Segue quindi la sezione dedicata ai Prodotti/Servizi che l’azienda offre, con un’attenzione al valore che questi hanno per il cliente. La terza sezione corrisponde allo Strategic Plan, il cuore dell’intero Business Plan, dove vengono definite le attività di rilievo e quali risorse vi prenderanno parte. I propositi forniti saranno in linea con la value proposition, al fine di accrescere il vantaggio competitivo dell’azienda. Le sezioni di implementazione e di controllo di gestione si concentrano sull’applicazione e sul monitoraggio delle prestazioni. Successivamente, le sezioni di Marketing Plan, Operating Plan e Financial Plan definiscono nel dettaglio in che modo verrà implementata la strategia definita nella fase di Strategic Planning. Infine, nella sezione dedicata alla Risk Analysis, sono presentati i criteri di analisi del rischio che forniscono una stima dei risultati, coerentemente con le azioni descritte nelle sezioni precedenti del Business Plan.<br>La consulenza strategica di JEMP può aiutare un business a decollare!</p>
+				</div>
+				<img alt="Business Plan" src="https://www.jemp.it/images/servizi/business_business-plan.jpg"/>
+			</div>	
+		</div>		
+		<div class="layout half">
+			<img alt="Business Model" src="https://www.jemp.it/images/servizi/business_business-model.jpg"/>
+			<div>
+				<h3>Business Model</h3>
+				<p>Per una start-up o per un business che necessita di innovazione è importante seguire una strategia aziendale con focus e approcci al mercato ben chiari. A tal proposito un modello di Business Canvas permette di descrivere le logiche e le modalità secondo cui un’organizzazione crea, distribuisce e raccoglie valore sul mercato accrescendo il proprio vantaggio competitivo.<br>Al fine di rispettare la value proposition con il cliente, verrà adoperato il Business Model Canvas, uno dei modelli più aggiornati e innovativi presenti sul mercato introdotto da Alexander Osterwalder nel 2010.<br>Un esempio pratico di Business Canvas si compone di tre macro-sezioni: una finanziaria, una che si propone di ricercare le sinergie con i fornitori e una che riguarda le relazioni con i clienti finali. Gli aspetti analizzati in tali sezioni devono essere di supporto al successo della nuova idea di business che si vuole proporre.<br>La consulenza manageriale di JEMP permette di ridisegnare il Business Model per una corretta valutazione delle alternative.</p>
+			</div>
+		</div>	
+	</section>
+	
+	<section class="wrapper servizi_cta">
+		<div class="background"></div>
+		<div class="even">
+			<h3>Cosa aspetti?</h3>
+			<a href="https://www.jemp.it/servizi/" class="text_button yellow_button">Vedi tutti i servizi</a>
+		</div>
+	</section>
+	
+	<!--#include virtual="../common/footer.shtml" -->
+	
+	<script src="https://www.jemp.it/js/servizi_singoli.js" type="text/javascript"></script>
+	
+</body>
+</html>

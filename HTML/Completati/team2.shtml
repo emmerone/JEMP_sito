@@ -1,0 +1,481 @@
+<!doctype html>
+<html>
+
+<head>
+	<!--#include virtual="common/meta.html" -->
+	<!--#include virtual="common/analytics.html" -->
+	<title>JEMP | Team</title>	
+	
+	<!--Scheda corrente nell'header - home = 0-->
+	<script>var current = "3";</script>	
+	<link href="https://www.jemp.it/css/team.css?v=1.1" rel="stylesheet" type="text/css">
+</head>
+
+<body ontouchstart="">
+	<!--#include virtual="common/fb_chat.html" -->	
+	
+	<h1>JEMP | Junior Enterprise Milano Politecnico</h1>
+	
+	<!--#include virtual="common/header.html" -->
+	
+	<section class="wrapper team">
+		<div class="background"></div>
+		<div class="layout half">
+			<div>
+				<h3>Il Team</h3>
+				<p>In JEMP ciò che conta di più sono le persone con cui abbiamo la possibilità di lavorare e condividere la nostra esperienza.<br>Questi siamo noi, noi siamo JEMP!</p>
+			</div>
+		</div>
+	</section>
+	
+	<div class="yellow-line"></div>
+	
+	<section class="board_container">
+		<div class="board_description">
+			<h5>Board</h5>
+			<p>Il Board è l’organo centrale della Junior Enterprise. Si occupa di delineare la strategia dell'organizzazione, definendone gli obiettivi e indirizzandola verso il loro raggiungimento.</p>
+		</div>
+		<div class="member board_member">
+			<img src="https://www.jemp.it/images/team/emidio_granito.jpg">
+			<div class="member_overlay">
+				<div class="member_data">
+					<h5>Emidio Granito</h5>
+					<h5>Presidente</h5>
+				</div>
+			</div>
+		</div>
+		<div class="member board_member">
+			<img src="https://www.jemp.it/images/team/sara_rossignoli.jpg">
+			<div class="member_overlay">
+				<div class="member_data">
+					<h5>Sara Rossignoli</h5>
+					<h5>Segretario Generale &amp; IM</h5>
+				</div>
+			</div>
+		</div>
+		<div class="member board_member">
+			<img src="https://www.jemp.it/images/team/giacomo_di_fuccia.jpg">
+			<div class="member_overlay">
+				<div class="member_data">
+					<h5>Giacomo Di Fuccia</h5>
+					<h5>Tesoriere</h5>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<div class="area_menu yellow-line">
+		<ul>
+			<li class="act">Area Audit</li>
+			<li>Area Commerciale</li>
+			<li>Area Comunicazione</li>
+			<li>Area HR</li>
+		</ul>
+	</div>
+	
+	<section class="area_slider">
+		<div class="area_container">
+			<div class="yellow">
+				<div class="member resp_member">
+					<img src="https://www.jemp.it/images/team/lorenzo_chiesa.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Lorenzo Chiesa</h5>
+						</div>
+					</div>
+				</div>
+				<div class="area_description">
+					<h5>Area Audit</h5>
+					<p>L'Area Audit ha il compito di fornire supporto operativo ai PM, assumendo una figura super partes che agevola lo svolgimento dei progetti. L'Area ha un visione completa ed olistica e coadiuva il corretto svolgimento di pratiche interne garantendo un ambiente sereno e produttivo all'interno dell Junior Enterprise.</p>
+				</div>
+				<span class="icon_button fa-stack fa-2x">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fas fa-expand fa-stack-1x fa-inverse"></i>
+				</span>
+			</div>
+			<div class="member_container">
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/enrico_bassissi.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Enrico Bassissi</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/alessandro_di_maio.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Alessandro Di Maio</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/margherita_fabbri.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Margherita Fabbri</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/lucia_di_giacomo.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Lucia Di Giacomo</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/edoardo_filippini.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Edoardo Filippini</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/matteo_ravani.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Matteo Ravani</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/roberto_mazzoncini.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Roberto Mazzoncini</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/maria_vittoria_ferrari.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Maria Vittoria Ferrari</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/greta_valsecchi.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Greta Valsecchi</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/marco_zucca.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Marco Zucca</h5>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>	
+		<div class="area_container">
+			<div class="yellow">
+				<div class="member resp_member">
+					<img src="https://www.jemp.it/images/team/giacomo_campigotto.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Giacomo Campigotto</h5>
+						</div>
+					</div>
+				</div>
+				<div class="area_description">
+					<h5>Area Commerciale</h5>
+					<p>L'Area Commerciale è il cuore imprenditoriale di JEMP; si prende cura dei clienti dall'inizio alla fine del progetto, formalizzando il trattamento attraverso preventivo e contratto. Promuove, inoltre, i servizi di JEMP sul mercato per una migliore visibilità dell'associazione.</p>
+				</div>
+				<span class="icon_button fa-stack fa-2x">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fas fa-expand fa-stack-1x fa-inverse"></i>
+				</span>
+			</div>
+			<div class="member_container">
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/davide_bonzi.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Davide Bonzi</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/filippo_cella_mazzariol.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Filippo Cella Mazzariol</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/camilla_costa.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Camilla Costa</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/salvatore_fadda.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Salvatore Fadda</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/nicolo_franchini.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Nicolò Franchini</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/imane_marouf.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Imane Marouf</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/tosca_naletto.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Tosca Naletto</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/lorenzo_spinelli.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Lorenzo Spinelli</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/guido_vergani.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Guido Vergani</h5>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>	
+		<div class="area_container">
+			<div class="yellow">
+				<div class="member resp_member">
+					<img src="https://www.jemp.it/images/team/eugenia_rosina.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Eugenia Rosina</h5>
+						</div>
+					</div>
+				</div>
+				<div class="area_description">
+					<h5>Area Comunicazione</h5>
+					<p>L’Area Comunicazione gestisce i contatti con l’esterno della Junior Enterprise intattenendo contatti con le altre JE e con gli alumni. Si occupa di fornire l’immagine che JEMP presenta al pubblico dall’immagine coordinata dell’associazione alle campagne social.</p>
+				</div>
+				<span class="icon_button fa-stack fa-2x">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fas fa-expand fa-stack-1x fa-inverse"></i>
+				</span>
+			</div>
+			<div class="member_container">
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/irene_aiazzi.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Irene Aiazzi</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/fedele_cavaliere.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Fedele Cavaliere</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/giorgia_giaccherini.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Giorgia Giaccherini</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/giulia_panfilio.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Giulia Panfilio</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/giuseppe_fazio.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Giuseppe Fazio</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/francesco_verucchi.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Francesco Verucchi</h5>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>	
+		<div class="area_container">
+			<div class="yellow">
+				<div class="member resp_member">
+					<img src="https://www.jemp.it/images/team/alice_arcardini.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Alice Arcardini</h5>
+						</div>
+					</div>
+				</div>
+				<div class="area_description">
+					<h5>Area HR</h5>
+					<p>L'Area HR si occupa a 360 gradi di tutti i membri dell'associazione. Dall'allocazione sui vari progetti delle risorse alla scelta dei PM, si cura anche della crescita dei membri attraverso formazione, organizzando workshop ed eventi formativi interni. Organizza inoltre sessioni stagionali di recruitment dove nuovi studenti del Politecnico hanno la possibilità di diventare membri di JEMP.</p>
+				</div>
+				<span class="icon_button fa-stack fa-2x">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fas fa-expand fa-stack-1x fa-inverse"></i>
+				</span>
+			</div>
+			<div class="member_container">
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/luca_benini.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Luca Benini</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/elena_bergamin.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Elena Bergamin</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/mario_borruto.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Mario Borruto</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/federica_bruschi.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Federica Bruschi</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/leonardo_coppellotti.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Leonardo Coppellotti</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/ossama_el_boughlali.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Ossama El Boughlali</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/simona_esposito.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Simona Esposito</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/ambra_giuliano.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Ambra Giuliano</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/emma_marioni.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Emma Marioni</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/adriano_mundo.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Adriano Mundo</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/andrea_pasotti.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Andrea Pasotti</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/francesco_peressini.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Francesco Peressini</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/team/paolo_rossato.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Paolo Rossato</h5>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>		
+	</section>
+	
+	<!--#include virtual="common/footer.shtml" -->
+	
+	<script src="https://www.jemp.it/js/dotdotdot.js"></script>
+	<script src="https://www.jemp.it/js/team.js"></script>
+	
+</body>
+</html>

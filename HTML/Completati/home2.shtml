@@ -1,0 +1,143 @@
+<!doctype html>
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!--#include virtual="common/meta.html" -->
+	<!--#include virtual="common/analytics.html" -->
+	<title>JEMP | Junior Enterprise Milano Politecnico</title>
+
+	<!--Scheda corrente nell'header - home = 0-->
+	<script>var current = "0";</script>
+	<link href="https://www.jemp.it/css/index.css?v=1.1" rel="stylesheet" type="text/css">
+	
+
+
+</head>
+
+<body>
+	<!--#include virtual="common/fb_chat.html" -->
+
+	<h1>JEMP | Junior Enterprise Milano Politecnico</h1>
+
+	<!--#include virtual="common/header.html" -->
+
+	<section class="banner">
+		<img alt="JEMP" src="https://www.jemp.it/images/logo_white.png"/>
+		<p>Junior Enterprise Milano Politecnico</p>
+	</section>
+
+	<section class="wrapper">
+		<div class="yellow"><h2 class="even">Chi siamo</h2></div>
+		<div class="layout half">
+			<p>JEMP è una Junior Enterprise, un’associazione no-profit composta da studenti Ingegneri e Designer selezionati tra le eccellenze studentesche del Politecnico di Milano.<br><br>Quella del JEMPer è una figura intrisa di lavoro, passione e dedizione che offre ad aziende e privati idee concrete e innovative.</p>
+			<img alt="JEMP" src="https://www.jemp.it/images/home/home1.jpg"/>
+		</div>
+		<div class="layout third">
+			<div>
+				<h3>Networking</h3>
+				<p>Allargare la propria rete di conoscenze ed espandere costantemente la propria comfort zone è la base di un junior entrepreneur.<br>JEMP fa parte del vasto network di JE Italy ed ha solidi contatti con le altre realtà italiane.</p>
+			</div>
+			<div>
+				<h3>Progetti</h3>
+				<p>Lavorare in team, affrontando ogni volta sfide nuove, è un’occasione per mettersi alla prova ed applicare le conoscenze teoriche, mantenendo professionalità e qualità.</p>
+			</div>
+			<div>
+				<h3>Workshop</h3>
+				<p>La crescita personale non è solo uno dei nostri obiettivi, ma è il motore stesso del nostro successo. La parola chiave è formazione: workshop e training accrescono le soft skills e le conoscenze in svariati ambiti.</p>
+			</div>
+		</div>
+	</section>
+
+	<section class="numscroll yellow">
+		<div class="layout fourth">
+  			<div>
+				<h3 class="number" data-min="0" data-max="5" data-delay="2" data-increment="1">5</h3>
+  				<h5>Anni di attività</h5>
+  				<i  class="far fa-calendar-check fa-2x"></i>
+  			</div>
+  			<div>
+				<h3 class="number" data-min="0" data-max="53" data-delay="2" data-increment="1">53</h3>
+  				<h5>Progetti completati</h5>
+  				<i  class="far fa-paper-plane fa-2x"></i>
+  			</div>
+  			<div>
+				<h3 class="number" data-min="0" data-max="52" data-delay="2" data-increment="1">52</h3>
+  				<h5>JEMPers</h5>
+  				<i  class="fas fa-users fa-2x"></i>
+  			</div>
+  			<div>
+				<h3 class="number" data-min="0" data-max="12" data-delay="2" data-increment="1">12</h3>
+  				<h5>Facoltà</h5>
+  				<i  class="fas fa-graduation-cap fa-2x"></i>
+  			</div>
+  		</div>
+    </section>
+
+
+	<!--  <section class="dicono_di_noi">
+		<h3 class="center">Dicono di noi</h3>
+
+
+                <div class="mySlides"><div class="content"><div class="table"><p style="text-align:center">“Posuere nec quis phasellus gravida massa. Vel nec et suspendisse duis tristique. Viverra pharetra lectus risus diam vitae.”</p></div></div></div></div>
+
+				<div class="mySlides"><div class="content"><div class="table"><p style="text-align:center">“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”</p></div></div></div>
+
+				<div class="mySlides"><div class="content"><div class="table"><p style="text-align:center">“Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.”</p></div></div></div>
+
+				
+
+			</section>--> 
+	
+	<!--	<section class="eventi yellow">
+		<h2 class="center">La storia</h2>
+		<div class="mouse">
+			<!--<ul>-->
+					<!--<div class="quadrato"><div class="content"> <div class="table"><div class="table-cell"><ul class=storia><li>2014</li><li>Fondazione</li><li>e riconoscimento</li></ul> </div></div></div></div>
+				<div class="quadrato"><div class="content"> <div class="table"><div class="table-cell"><ul class=storia><li>2016</li><li>50° progetto</li><li>esterno</li></ul></div></div></div></div>
+				<div class="quadrato"><div class="content"> <div class="table"><div class="table-cell"><ul class=storia><li>2018</li><li>JIMM "Best Brand</li><li>Identity" award</li></ul></div></div></div></div>
+				<div class="quadrato"><div class="content"> <div class="table"><div class="table-cell"><ul class=storia><li>2019</li><li>JIMM "Best</li><li>project" award</li></ul></div></div></div></div>
+				<div class="quadrato"><div class="content"> <div class="table"><div class="table-cell"><ul class=storia><li>2019</li><li>50° alumnus</li><li>nel mondo</li></ul></div></div></div></div>
+			<!--</ul>-->
+			<!--</div>
+    </section> -->
+		
+
+	<section class="partners">
+		<h2 class="center">Partners</h2>
+		<div class="accordion">
+			<ul>
+				<li><div><a title="" href="https://www.amaris.com/" target="_blank"></a></div></li>
+				<li><div><a title="" href="http://jecatt.com/" target="_blank"></a></div></li>
+				<li><div><a title="" href="https://www.jest.it/" target="_blank"></a></div></li>
+				<li><div><a title="" href="https://jetop.com/" target="_blank"></a></div></li>
+				<li><div><a title="" href="https://www.statista.com/" target="_blank"></a></div></li>
+				<li><div><a title="" href="https://www.dailyinternship.com/" target="_blank"></a></div></li>
+				<li><div><a title="" href="http://www.fondazionepolitecnico.it/it/" target="_blank"></a></div></li>
+			</ul>
+		</div>
+    </section>
+
+	<!--#include virtual="common/footer.shtml" -->
+
+	<!--Script per il numscroller-->
+	<script src="https://www.jemp.it/js/numscroller.js" type="text/javascript"></script>
+
+	<script>
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > x.length) {slideIndex = 1}
+  x[slideIndex-1].style.display = "block";
+  setTimeout(carousel, 2000);
+}
+</script>
+
+</body>
+</html>

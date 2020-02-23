@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+
+<head>
+	<!--#include virtual="../common/meta.html" -->
+	<!--#include virtual="../common/analytics.html" -->
+	<title>JEMP | Servizi | Design</title>
+	
+	<!--Scheda corrente nell'header - home = 0-->
+	<script>var current = "2";</script>
+	<link href="https://www.jemp.it/css/servizi_singoli.css?v=1.2" rel="stylesheet" type="text/css">
+	
+	<style>
+		.servizi_header .background, .servizi_cta .background{
+			background: url("https://www.jemp.it/images/servizi/design.jpg") no-repeat center;
+			-webkit-background-size: cover;
+					background-size: cover;
+		}		
+	</style>
+</head>
+
+<body>
+	<!--#include virtual="../common/fb_chat.html" -->	
+	
+	<h1>JEMP | Servizi | Design</h1>
+	
+	<!--#include virtual="../common/header.html" -->
+	
+	<section class="wrapper servizi_header">
+		<div class="background"></div>
+		<div class="layout half">
+			<div>
+				<h3>Design</h3>
+				<p>In un mondo sempre più connesso e globalizzato, le aziende si ritrovano a dover competere con un numero sempre maggiore di concorrenti. Oggi più che mai è necessario il buon design per poter disporre di un’offerta diversificata e apprezzabile dai propri clienti e riuscire a spiccare nel panorama dei competitor. Noi di JEMP puntiamo a garantire proprio questo: soluzioni nello sviluppo sia della parte grafica che dell’offerta prodotti della vostra azienda, con il supporto degli studenti dell’università di design quinta al mondo.</p>
+				<div class="button_flex_container">
+					<a href="https://www.jemp.it/servizi/" class="text_button black_button small">Tutti i servizi</a>
+					<span class="text_button yellow_button small" name="discover">Scopri</span>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section class="wrapper" id="focus">				
+		<div class="yellow">
+			<div class="layout half">
+				<div>
+					<h3>Grafica e Brand Identity</h3>
+					<p>Colori, proporzioni e grafiche curate sono alla base del buon design. L’Immagine Coordinata aziendale necessita di coerenza per essere efficace ed intuitiva e richiede un’analisi completa del committente, dalle sue aspettative ai suoi competitor, tenendo conto di preferenze visive e qualitative, oltre che quantitative.<br>In linea con l’immagine e con la strategia comunicativa che il committente intende trasmettere al cliente finale, viene definita la Brand Identity sulla base dell’analisi fatta in precedenza, con la possibilità di essere arricchita successivamente. <br>In un’immagine coordinata grafica, uno degli elementi più riconoscibili all’interno della Brand Identity è il logo. La scelta cromatica è frutto di molto più che una mera sensazione viscerale: l’uso del colore e le sue applicazioni trasmettono stimoli psicologici che conferiscono un’immediata impronta emotiva ad un qualsiasi osservatore. Per questo motivo, disporre di un accattivante logo sul web permettere di distinguersi in un oceano di possibili scelte.<br>Altro elemento necessario per definire l’Identità Grafica è lo stile visivo, ovvero l’idea che si vuole mostrare al target scelto. <br>Attraverso uno studio di Brand Identity, JEMP può effettuare un preventivo per il logo e l’immagine coordinata di un’azienda, fornendo esempi validi tra cui scegliere, che trasmettano immediatezza, vigore e chiarezza attraverso ogni forma di comunicazione con il pubblico.</p>
+				</div>
+				<img alt="Grafica e Brand Identity" src="https://www.jemp.it/images/servizi/design_grafica-e-brand-identity.jpg"/>
+			</div>	
+		</div>		
+		<div class="layout half">
+			<img alt="Prodotto" src="https://www.jemp.it/images/servizi/design_prodotto.jpg"/>
+			<div>
+				<h3>Design del Prodotto</h3>
+				<p>La progettazione di un prodotto fisico implica la gestione di un processo di New Product Development che, partendo dal brief stabilito con il cliente e dalle necessità di una buona strategia di mercato e Business Model, passi attraverso le fasi di Concept Generation, Analisi dei bisogni dell’Utente, UX Design, Rendering 3D, Styling, definizione dei Materiali, Colori e Finiture, Ingegnerizzazione e Documentazione tecnica.<br>Il design del prodotto industriale si occupa di considerare gli aspetti gestionali, funzionali, fisici, economici, estetici, comunicativi ed ingegneristici di un prodotto che possa essere accattivante e vincente sul mercato.<br>Per lanciare un nuovo prodotto sul mercato o incrementare le vendite di uno già affermato tramite un Restyling, JEMP offre la consulenza dei suoi migliori designer del prodotto industriale ed ingegneri.</p>
+			</div>
+		</div>
+		<div class="yellow">
+			<div class="layout half">
+				<div>
+					<h3>UX/UI</h3>
+					<p>La progettazione di un prodotto fisico implica la gestione di un processo di New Product Development che, partendo dal brief stabilito con il cliente e dalle necessità di una buona strategia di mercato e Business Model, passi attraverso le fasi di Concept Generation, Analisi dei bisogni dell’Utente, UX Design, Rendering 3D, Styling, definizione dei Materiali, Colori e Finiture, Ingegnerizzazione e Documentazione tecnica.<br>Il design del prodotto industriale si occupa di considerare gli aspetti gestionali, funzionali, fisici, economici, estetici, comunicativi ed ingegneristici di un prodotto che possa essere accattivante e vincente sul mercato.<br>Per lanciare un nuovo prodotto sul mercato o incrementare le vendite di uno già affermato tramite un Restyling, JEMP offre la consulenza dei suoi migliori designer del prodotto industriale ed ingegneri.</p>
+				</div>
+				<img alt="Grafica e Brand Identity" src="https://www.jemp.it/images/servizi/design_grafica-e-brand-identity.jpg"/>
+			</div>	
+		</div>
+	</section>
+	
+	<section class="wrapper servizi_cta">
+		<div class="background"></div>
+		<div class="even">
+			<h3>Cosa aspetti?</h3>
+			<a href="https://www.jemp.it/servizi/" class="text_button yellow_button">Vedi tutti i servizi</a>
+		</div>
+	</section>
+	
+	<!--#include virtual="../common/footer.shtml" -->
+	
+	<script src="https://www.jemp.it/js/servizi_singoli.js" type="text/javascript"></script>
+	
+</body>
+</html>

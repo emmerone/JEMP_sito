@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+
+<head>
+	<!--#include virtual="../common/meta.html" -->
+	<!--#include virtual="../common/analytics.html" -->
+	<title>JEMP | Servizi | Information Technology</title>
+	
+	<!--Scheda corrente nell'header - home = 0-->
+	<script>var current = "2";</script>
+	<link href="https://www.jemp.it/css/servizi_singoli.css?v=1.2" rel="stylesheet" type="text/css">
+	
+	<style>
+		.servizi_header .background, .servizi_cta .background{
+			background: url("https://www.jemp.it/images/servizi/it.jpg") no-repeat center;
+			-webkit-background-size: cover;
+					background-size: cover;
+		}		
+	</style>
+</head>
+
+<body>
+	<!--#include virtual="../common/fb_chat.html" -->	
+	
+	<h1>JEMP | Servizi | Information Technology</h1>
+	
+	<!--#include virtual="../common/header.html" -->
+	
+	<section class="wrapper servizi_header">
+		<div class="background"></div>
+		<div class="layout half">
+			<div>
+				<h3>Information Technology</h3>
+				<p>Oggigiorno i siti internet sono diventati i nuovi biglietti da visita: sono il primo e spesso l’unica fonte di informazioni riguardo una azienda, presentare un sito ben realizzato è fondamentale per dare una ottima impressione. Per questo essere posizionati tra i primi risultati in una ricerca online non è solo sinonimo di popolarità, ma significa anche riuscire a raggiungere più clienti.<br>Noi di JEMP possiamo fornirti un aiuto per la progettazione e la creazione di siti sia aziendali che personali.</p>
+				<div class="button_flex_container">
+					<a href="https://www.jemp.it/servizi/" class="text_button black_button small">Tutti i servizi</a>
+					<span class="text_button yellow_button small" name="discover">Scopri</span>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section class="wrapper" id="focus">				
+		<div class="yellow">
+			<div class="layout half">
+				<div>
+					<h3>Sito Web</h3>
+					<p>La realizzazione di siti internet parte dalla scelta del tipo di sito che si vuole impiegare. Un sito web statico consente di creare pagine web dal rapido caricamento per la consultazione per l’utente. Ha una grande utilità in quei contesti che forniscono informazioni che non cambiano rapidamente in quanto la modifica o l’aggiunta di nuovo contenuto richiederebbe un intervento tecnico.<br>Un sito web dinamico è collegato ad un database che permette l’interazione con l’utente e la visualizzazione di dati che variano con alta frequenza. Il carattere dinamico non comporta interventi di manutenzione ma il tempo di caricamento è maggiore e richiede il corretto funzionamento del database.<br>Inoltre, la realizzazione e lo sviluppo di siti eCommerce possono aiutare le aziende a raggiungere un numero di clienti maggiore.<br>I membri di JEMP, nell’ambito della consulenza informatica, si occupano anche di progettazione di siti di web professionali, oltre che della configurazione e della cura dei servizi informatici interni e possono offrirti un preventivo.</p>
+				</div>
+				<img alt="Sito Web" src="https://www.jemp.it/images/servizi/it_sito-web.jpg"/>
+			</div>	
+		</div>
+		<div class="layout half">
+			<img alt="Prodotto" src="https://www.jemp.it/images/servizi/design_prodotto.jpg"/>
+			<div>
+				<h3>SEO/SEM</h3>
+				<p>Essere posizionati tra i primi risultati in una ricerca online è un fattore essenziale per raggiungere il maggior numero di clienti. Per apparire più in alto bisogna implementare strategie di Search Engine Optimization (SEO) e Search Engine Marketing (SEM).<br>La SEO on page permette di aumentare la propria popolarità e visibilità sui motori di ricerca, ottimizzando la struttura dei propri contenuti su particolari concetti chiave.<br>L'ottimizzazione SEO con restrizioni geografiche (SEO local) permette di ottenere un buon posizionamento SEO, comparendo per primi nelle ricerche di prodotti locali.<br>La SEM consiste nell’utilizzo di servizi di advertising online e su smartphone, come Google Ads, per realizzare campagne pubblicitarie mirate all’ottimizzazione di siti web sui motori di ricerca. Per essere il più accattivanti possibili, gli annunci pubblicitari verranno attentamente studiati dal team specializzato.<br>In un web sempre più affollato, l’ausilio di un consulente SEO è essenziale per avere maggiore visibilità rispetto ai propri competitor. JEMP, in qualità di agenzia SEO, attraverso un’analisi SEO online può individuare la strategia più adatta alle esigenze del caso, curando gli aspetti di implementazione e manutenzione.</p>
+			</div>
+		</div>		
+	</section>
+	
+	<section class="wrapper servizi_cta">
+		<div class="background"></div>
+		<div class="even">
+			<h3>Cosa aspetti?</h3>
+			<a href="https://www.jemp.it/servizi/" class="text_button yellow_button">Vedi tutti i servizi</a>
+		</div>
+	</section>
+	
+	<!--#include virtual="../common/footer.shtml" -->
+	
+	<script src="https://www.jemp.it/js/servizi_singoli.js" type="text/javascript"></script>
+	
+</body>
+</html>

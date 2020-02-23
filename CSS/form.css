@@ -1,0 +1,143 @@
+/* CONTACT - Definisce nello specifico i form contatti*/
+.contact #form{
+	position: relative;
+ 	-webkit-box-sizing: border-box;
+  	box-sizing: border-box;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-font-smoothing: antialiased;
+  	-o-font-smoothing: antialiased;
+  	font-smoothing: antialiased;
+  	text-rendering: optimizeLegibility;
+	padding: 0 2em;
+	max-width: 650px;
+	margin: 3em auto;
+}
+
+.contact #form h5 { margin-bottom: 2em; }
+
+.contact #form input, .contact #form select, .contact #form textarea{
+	font-family: "FuturaStd", sans-serif;
+	font-weight: 900;
+	font-size: 18px;
+	width: 100%;
+	height: 60px;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 10px;
+	        border-radius: 10px;
+	background: #fff;
+	margin: 0 0 30px 0;
+	padding: 0 20px;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	position: relative;
+}
+
+.contact #form select{
+	background: url("https://www.jemp.it/images/contacts/arrow.png") right center no-repeat;
+	-webkit-background-size: contain;
+	        background-size: contain;
+	cursor: pointer;
+}
+
+.contact #form textarea{
+	padding-top: 16px;
+	height: 180px;
+	resize: none;
+}
+
+.contact #form input:hover, .contact #form select:hover, .contact #form textarea:hover{
+	-webkit-transition: border-color .2s ease-in-out;
+	-o-transition: border-color .2s ease-in-out;
+	transition: border-color .2s ease-in-out;
+  	border: 1px solid #aaa;
+}
+
+.contact #form input:focus, .contact #form select:focus, .contact #form textarea:focus{
+	outline: 0;
+	border: 1px solid #aaa;
+}
+		
+.contact #form select:invalid, .contact #form select option:disabled { color: #888; }
+						
+.contact #form select option{
+	font-weight: 900;
+ 	color: #000;
+}
+
+.contact #form button{
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	width: 100%;
+	height: 50px;
+	padding: 0;
+	margin: 0;	
+}
+
+.contact #form fieldset{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.contact #form fieldset > div { position: relative; }
+
+::-webkit-input-placeholder { color: #888; }
+:-moz-placeholder { color: #888; }
+::-moz-placeholder { color: #888; }
+:-ms-input-placeholder { color: #888; }
+::-webkit-input-placeholder { padding-top: 3px; }
+
+.contact #form input:focus,
+.contact #form select:focus,
+.contact #form textarea:focus,
+.contact #form input.cont:valid,
+.contact #form select.cont:valid,
+.contact #form textarea.cont:valid{ 
+	border-color: #ffd100;
+}
+
+.contact #form input.cont:invalid,
+.contact #form select.cont:invalid,
+.contact #form textarea.cont:invalid{
+	border-color: #eb3300;
+}
+
+.contact #form input ~ label,
+.contact #form select ~ label,
+.contact #form textarea ~ label{
+	font-family: "FuturaStd", sans-serif;
+	font-weight: 900;
+	font-size: 18px;
+	color: #888;
+	position: absolute;
+	top: 20px;
+	left: 21px;
+	-webkit-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+    pointer-events: none;
+}
+
+.contact #form input:focus ~ label,
+.contact #form select:focus ~ label,
+.contact #form textarea:focus ~ label,
+.contact #form input.cont ~ label,
+.contact #form select.cont ~ label,
+.contact #form textarea.cont ~ label{
+	font-size: 15px;
+	color: #ffd100;
+	top: -22px;
+	left: 0;
+}
+
+.contact #form input.cont:invalid ~ label,
+.contact #form select.cont:invalid ~ label,
+.contact #form textarea.cont:invalid ~ label{
+	color: #eb3300;
+}
+
+.contact #form input[name="url"] { text-transform: lowercase; }

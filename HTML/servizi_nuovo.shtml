@@ -1,0 +1,194 @@
+<!doctype html>
+<html><head>
+	<!--#include virtual="common/meta.html" -->
+	<!--#include virtual="common/analytics.html" -->
+	<title>JEMP | Servizi</title>	
+	
+	<!--Scheda corrente nell'header - home = 0-->
+	<script>var current = "1";</script>	
+	<script src="team.js" type="text/javascript"></script>
+	<script src="slider.js" type="text/javascript"></script>
+	<script src="dotdotdot.js" type="text/javascript"></script>
+	<script src="mobile-menu.js" type="text/javascript"></script>
+	<script src="jquery-1.10.2.min.js" type="text/javascript"></script>
+
+	<link href="https://www.jemp.it/css/team2.css?v=1.1" rel="stylesheet" type="text/css">
+	<link href="https://www.jemp.it/css/shared2.css?v=1.1" rel="stylesheet" type="text/css">
+	<link href="https://www.jemp.it/css/normalize2.css?v=1.1" rel="stylesheet" type="text/css">
+	
+</head>
+
+<body ontouchstart="">
+	<!--#include virtual="common/fb_chat.html" -->	
+	
+	<h1>JEMP | Junior Enterprise Milano Politecnico</h1>
+	
+	<!--#include virtual="common/header.html" -->
+	
+	<section class="wrapper team">
+		<div class="background"></div>
+		<div class="layout half">
+			<div>
+				<h3>Servizi</h3>
+				<p>JEMP offre servizi aggiornati e conoscenze fresche di studio, in continuo aggiornamento.</p>
+			</div>
+		</div>
+	</section>
+	
+	<div class="yellow-line"></div>
+	
+	<div class="area_menu yellow-line">
+		<ul>
+			<li class="act">Business</li>
+			<li>Marketing</li>
+			<li>Design</li>
+			<li>IT</li>
+		</ul>
+	</div>
+	
+	<section class="area_slider">
+		<div class="area_container">
+			<div class="yellow">
+				<div class="area_description">
+					<h5>Business</h5>
+					<p>La gestione di un’impresa non è un’attività semplice, necessita sicuramente di una buona dose di coraggio e di tenacia ma questo non sempre basta. Essendo quello dell’imprenditoria un settore complesso e denso di trappole, un saggio imprenditore è colui che sceglie di farsi affiancare da un aiuto esterno.<br>JEMP ti aiuta a coltivare la tua idea imprenditoriale, offrendo un eccellente servizio di consulenza che, tramite stesure di business plan o business model, ti permetterà di incrementare il tuo successo.</p>
+				</div>
+				<span class="icon_button fa-stack fa-2x">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fas fa-expand fa-stack-1x fa-inverse"></i>
+				</span>
+			</div>
+			<div class="member_container">
+				<div class="member area_member">
+				   <img src="https://www.jemp.it/images/servizi/business_business-plan.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Business Plan</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/servizi/business_business-model.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Business Model</h5>
+						</div>
+					</div>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+		</div>	
+		<div class="area_container">
+			<div class="yellow">
+				<div class="area_description">
+					<h5>Marketing</h5>
+					<p>Se hai intenzione di dare una svolta alla tua carriera allora sei nel posto giusto. Il settore marketing si occupa di definire, tramite un’analisi a 360 gradi, le caratteristiche rilevanti del settore di riferimento, per fare in modo che la tua start-up o la tua impresa si fondino su solide fondamenta, basi che permettono di diventare un notevole concorrente.<br>Qui in JEMP siamo pronti a darti tutto il nostro aiuto, mettendo in pratica le nostre conoscenze ed esperienze per svolgere analisi di mercato, per delineare una nuova strategia di comunicazione e per sostenere la vostra attività Network. Il nostro obiettivo è quello di aiutarti nel perfezionare e ottimizzare appieno i rapporti col tuo mercato di riferimento.</p>
+				</div>
+				<span class="icon_button fa-stack fa-2x">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fas fa-expand fa-stack-1x fa-inverse"></i>
+				</span>
+			</div>
+			<div class="member_container">
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/servizi/marketing_analisi-di-mercato.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Analisi di Mercato</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/servizi/marketing_sviluppo-social.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Social Media Marketing</h5>
+						</div>
+					</div>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+		</div>	
+		<div class="area_container">
+			<div class="yellow">
+				<div class="area_description">
+					<h5>Design</h5>
+					<p>In un mondo sempre più connesso e globalizzato, le aziende si ritrovano a dover competere con un numero sempre maggiore di concorrenti. Oggi più che mai è necessario il buon design per poter disporre di un’offerta diversificata e apprezzabile dai propri clienti e riuscire a spiccare nel panorama dei competitor.<br>Noi di JEMP puntiamo a garantire proprio questo: soluzioni nello sviluppo sia della parte grafica che dell’offerta prodotti della vostra azienda, con il supporto degli studenti dell’università di design quinta al mondo.</p>
+				</div>
+				<span class="icon_button fa-stack fa-2x">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fas fa-expand fa-stack-1x fa-inverse"></i>
+				</span>
+			</div>
+			<div class="member_container">
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/servizi/design_grafica-e-brand-identity.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Grafica e Brand Identity</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/servizi/design_prodotto.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Design del Prodotto</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/servizi/design_grafica-e-brand-identity.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>UX/UI</h5>
+						</div>
+					</div>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+		</div>	
+		<div class="area_container">
+			<div class="yellow">
+				<div class="area_description">
+					<h5>Servizi IT</h5>
+					<p>Oggigiorno i siti internet sono diventati i nuovi biglietti da visita: sono il primo e spesso l’unica fonte di informazioni riguardo una azienda, presentare un sito ben realizzato è fondamentale per dare una ottima impressione. Per questo essere posizionati tra i primi risultati in una ricerca online non è solo sinonimo di popolarità, ma significa anche riuscire a raggiungere più clienti.<br>Noi di JEMP possiamo fornirti un aiuto per la progettazione e la creazione di siti sia aziendali che personali.</p>
+				</div>
+				<span class="icon_button fa-stack fa-2x">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fas fa-expand fa-stack-1x fa-inverse"></i>
+				</span>
+			</div>
+			<div class="member_container">
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/servizi/it_sito-web.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>Sito Web</h5>
+						</div>
+					</div>
+				</div>
+				<div class="member area_member">
+					<img src="https://www.jemp.it/images/servizi/design_prodotto.jpg">
+					<div class="member_overlay">
+						<div class="member_data">
+							<h5>SEO/SEM</h5>
+						</div>
+					</div>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+		</div>		
+	</section>
+	
+	<!--#include virtual="common/footer.shtml" -->
+	
+	<script src="https://www.jemp.it/js/dotdotdot.js"></script>
+	<script src="https://www.jemp.it/js/team.js"></script>
+	
+</body>
+</html>
